@@ -1,6 +1,13 @@
+import Header from "./Header";
+
 function App(){
   return (
-    <h1>Hello world!</h1>
+    <div>
+      <Header />
+      <h1>Hello world!</h1>
+      <p>this is me.</p>
+
+    </div>
   )
 }
 
