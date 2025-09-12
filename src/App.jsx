@@ -9,7 +9,16 @@ function App(){
         <li className="furit-items">Apple</li>
         <li className="furit-items">Banana</li>
         <li className="furit-items">Kiwi</li>
-      </ul>
+      </ul><br /><br />
+      <form>
+        Name: <input type="text" /><br /><br />
+        Email: <input type="email" /><br /><br />
+        Phone: <input type="tel" /><br /><br />
+        Write Your Message: <input type="textarea"/><br /><br />
+        <button type="click">Send</button>
+        <button type="submit">Submit</button><br /><br />
+
+      </form>
     </div>
   )
 }
