@@ -17,7 +17,6 @@ function App(){
         Write Your Message: <input type="textarea"/><br /><br />
         <button type="click">Send</button>
         <button type="submit">Submit</button><br /><br />
-
       </form>
     </div>
   )
